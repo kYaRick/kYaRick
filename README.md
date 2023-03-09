@@ -4,7 +4,7 @@
     <a href="kilyshuk@gmail.com"><img alt="G-mail" src="https://img.shields.io/badge/-Mail:%20kilyshuk@gmail.com-white?style=for-the-badge&logo=gmail"/></a>
     <a href="https://www.linkedin.com/in/kyarick"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-white?style=for-the-badge&logo=LinkedIn&logoColor=blue"/></a>      
     <a href="https://t.me/kYaRick"><img alt="G-mail" src="https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram"/></a>
-    <a href="https://www.instagram.com/2kYaRick/"><img alt="G-mail" src="https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram"/></a>        
+    <a href="https://www.instagram.com/kYaRick/"><img alt="G-mail" src="https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram"/></a>        
 </p>
 <h2 align="center">Statistics</h2>
   <div>
