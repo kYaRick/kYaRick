@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 50" width="940" height="50">
+  <defs>
+    <linearGradient id="swuGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10141D" />
+      <stop offset="50%" stop-color="#141924" />
+      <stop offset="100%" stop-color="#10141D" />
+    </linearGradient>
+    <style>
+      .txt { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; }
+      .ua-blue { fill: #58A6FF; font-weight: 700; letter-spacing: 0.8px; }
+      .ua-yellow { fill: #FFD700; font-weight: 700; letter-spacing: 0.8px; }
+      .muted { fill: #8B8682; }
+      .tag { fill: #7EE787; font-weight: 600; font-size: 11px; }
+      .btn-txt { fill: #FFD700; font-weight: 700; font-size: 11px; letter-spacing: 0.5px; }
+    </style>
+  </defs>
+
+  <!-- Banner Frame -->
+  <rect x="1" y="1" width="938" height="48" rx="7" fill="url(#swuGrad)" stroke="#3D3219" stroke-width="1.5" />
+
+  <!-- Center Statement -->
+  <text x="32" y="30" class="txt">
+    <tspan class="ua-blue">STAND WITH UKRAINE</tspan>
+    <tspan dx="12" class="muted">·</tspan>
+    <tspan dx="12" class="ua-yellow">DEFENDING FREEDOM &amp; SOVEREIGNTY</tspan>
+    <tspan dx="14" class="muted">·</tspan>
+    <tspan dx="14" class="tag">● UNITED24</tspan>
+  </text>
+
+  <!-- Action Button (SUPPORT ->) -->
+  <g transform="translate(805, 10)">
+    <rect x="0" y="0" width="115" height="30" rx="5" fill="#161C27" stroke="#3D3219" stroke-width="1.2" />
+    <text x="57.5" y="19" text-anchor="middle" class="txt btn-txt">SUPPORT</text>
+  </g>
+</svg>
